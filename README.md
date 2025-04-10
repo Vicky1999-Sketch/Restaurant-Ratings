@@ -63,7 +63,7 @@ Data cleaning was conducted in Power Query. Key steps included:
 
 ![RR Modelling](https://github.com/user-attachments/assets/ff312c55-17d4-481d-b413-8b371579f4cf)
 
-## DAX Measures and Calculated Columns Created
+## VII. DAX Measures and Calculated Columns Created
 - Number of Customers  
 - Number of Restaurants  
 - Highest Rated Restaurants (by Overall Rating)  
@@ -71,7 +71,7 @@ Data cleaning was conducted in Power Query. Key steps included:
 - Number of Restaurant Cuisines  
 - Age Category Column
 
-## VII. Findings & Insights
+## VIII. Findings & Insights
 
 ### 1. **Top 5 Highest-Rated Restaurants**
 
@@ -98,14 +98,15 @@ While Mexican cuisine received high ratings overall, the top-rated restaurant (T
 
 ### 2. **Consumer Demographics**
 
-Occupation                             | Budget                                |Age                                    |Marital Status
-:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:------------------------------------:
-
+Occupation                                     | Budget                                
+:--------------------------------:|:---------------------------------:
 ![RR Occupation](https://github.com/user-attachments/assets/412e9424-0bb1-4cd9-825b-d173a27832a2)|
 ![RR Budget](https://github.com/user-attachments/assets/dfd24932-9941-4df7-9864-8ae9ff1f3077)|
+
+Age                                            |Marital Status
+|:--------------------------------:|:--------------------------------:
 ![RR Age](https://github.com/user-attachments/assets/cdddce77-f5dd-4340-8dd1-9c5b5a9bf458)
 ![RR MS](https://github.com/user-attachments/assets/6c707719-e12e-4f1d-a428-fff623013c76)|
-
 
 **Findings**
 - **Occupation**: 86.96% are students  
@@ -146,7 +147,7 @@ If investing in a restaurant, I would consider the following characteristics:
 - Targets **young adult consumers**
 - Provides **high-quality service**
 
-## VIII. Recommendations
+## IX. Recommendations
 
 1. Focus on **San Luis Potosi**, a hub for high-rated restaurants.  
 2. Consider offering **Mexican cuisine** due to its popularity and balanced demand-supply ratio.  
@@ -158,11 +159,11 @@ If investing in a restaurant, I would consider the following characteristics:
 8. Reposition restaurants offering over-supplied cuisines through branding or menu shifts.  
 9. Expand reach to include **families and older demographics** to broaden market appeal.
 
-## Conclusion 
+## X. Conclusion 
 
 Data-driven decisions—based on customer preferences, demographic insights, and regional performance—are essential for success in the restaurant industry. With the right combination of location, pricing, service, and marketing, investors can capitalize on existing trends and unmet demands to build profitable ventures
 
-## Dashboard
+## XI Dashboard
 ![RR DD](https://github.com/user-attachments/assets/35400c1e-6c7c-4f0a-88e0-6a240e398163)
 
 
