@@ -72,7 +72,6 @@ Data cleaning was conducted in Power Query. Key steps included:
 - Age Category Column
 
 ## VIII. Findings & Insights
-
 ### 1. **Top 5 Highest-Rated Restaurants**
 
 ![RR HRR](https://github.com/user-attachments/assets/0cb38ff0-746f-4014-834f-d1fc089b47a1)
@@ -100,13 +99,11 @@ While Mexican cuisine received high ratings overall, the top-rated restaurant (T
 
 Occupation                                     | Budget                                
 :--------------------------------:|:---------------------------------:
-![RR Occupation](https://github.com/user-attachments/assets/412e9424-0bb1-4cd9-825b-d173a27832a2)|
-![RR Budget](https://github.com/user-attachments/assets/dfd24932-9941-4df7-9864-8ae9ff1f3077)|
+![RR Occupation](https://github.com/user-attachments/assets/412e9424-0bb1-4cd9-825b-d173a27832a2)|![RR Budget](https://github.com/user-attachments/assets/dfd24932-9941-4df7-9864-8ae9ff1f3077)
 
 Age                                            |Marital Status
 |:--------------------------------:|:--------------------------------:
-![RR Age](https://github.com/user-attachments/assets/cdddce77-f5dd-4340-8dd1-9c5b5a9bf458)
-![RR MS](https://github.com/user-attachments/assets/6c707719-e12e-4f1d-a428-fff623013c76)|
+![RR Age](https://github.com/user-attachments/assets/cdddce77-f5dd-4340-8dd1-9c5b5a9bf458)|![RR MS](https://github.com/user-attachments/assets/6c707719-e12e-4f1d-a428-fff623013c76)
 
 **Findings**
 - **Occupation**: 86.96% are students  
