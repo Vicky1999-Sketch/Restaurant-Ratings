@@ -107,6 +107,68 @@ Occupation                             | Budget                                |
 ![RR MS](https://github.com/user-attachments/assets/6c707719-e12e-4f1d-a428-fff623013c76)|
 
 
+**Findings**
+- **Occupation**: 86.96% are students  
+- **Budget**: 67.53% have a medium budget  
+- **Age**: 72.46% are young adults (18-24)  
+- **Marital Status**: 92.75% are single  
+
+**Insight:**  
+The dataset exhibits a **clear demographic bias**, heavily skewed towards single, young adult students with medium budgets.
+
+### 3. **Demand & Supply Gaps**
+
+Demand by Consumer                             | Supply by Restaurant                               
+:-------------------------------------:|:-------------------------------------:
+![RR DBC](https://github.com/user-attachments/assets/967ae552-0b93-46b2-bf21-aa8b0c125310)|![RR SBR](https://github.com/user-attachments/assets/7d1b26ce-0857-48c0-82b4-f001c2aef8b0)
+
+**Findings**
+| Cuisine     | Demand (Customers) | Supply (Restaurants) |
+|-------------|--------------------|------------------------|
+| Mexican     | 97                 | 112                    |
+| American    | 11                 | 48                     |
+| Cafeteria   | 9                  | 55                     |
+| Pizzeria    | 9                  | 51                     |
+| Coffee      | 8                  | 46                     |
+| Family      | 8                  | 43                     |
+| Italian     | 7                  | 48                     |
+| Japanese    | 7                  | 41                     |
+
+**Insight:**  
+Mexican cuisine has a balanced demand and supply, but other cuisines show **oversupply** relative to demand. This suggests opportunities to adjust marketing or menu offerings, or to diversify to attract more customers.
+
+### 4. **Investment Strategy**
+
+If investing in a restaurant, I would consider the following characteristics:
+
+- Located in **San Luis Potosi**
+- Offers **medium-priced** meals
+- Targets **young adult consumers**
+- Provides **high-quality service**
+
+## VIII. Recommendations
+
+1. Focus on **San Luis Potosi**, a hub for high-rated restaurants.  
+2. Consider offering **Mexican cuisine** due to its popularity and balanced demand-supply ratio.  
+3. Opt for **medium-priced meals**, which appeal to the core demographic.  
+4. Target **young adults (18–24)** in marketing and branding efforts.  
+5. Emphasize **excellent service quality** to enhance customer satisfaction.  
+6. Offer a **diverse and innovative menu** to attract and retain a wider customer base.  
+7. Develop **effective marketing strategies** tailored to target demographics.  
+8. Reposition restaurants offering over-supplied cuisines through branding or menu shifts.  
+9. Expand reach to include **families and older demographics** to broaden market appeal.
+
+## Conclusion 
+
+Data-driven decisions—based on customer preferences, demographic insights, and regional performance—are essential for success in the restaurant industry. With the right combination of location, pricing, service, and marketing, investors can capitalize on existing trends and unmet demands to build profitable ventures
+
+## Dashboard
+![RR DD](https://github.com/user-attachments/assets/35400c1e-6c7c-4f0a-88e0-6a240e398163)
+
+
+
+
+
 
 
 
